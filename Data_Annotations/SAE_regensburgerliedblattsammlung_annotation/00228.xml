@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00228.jpg</filename>
+	<path>/Users/Nils/Desktop/Staffs/images/00228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2753</width>
+		<height>3423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>staff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>238</ymin>
+			<xmax>2608</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>
